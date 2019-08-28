@@ -12,7 +12,7 @@ fileKey = ''
 fileName = 'test.jpg'
 # 파일이름 파일의 위치까지 지정해도 상관업다. 스플릿 해서 잘라 사용할꺼니깐
 
-bucketName = 'awc20190723'
+bucketName = ''
 # 내 버킷 이름
 
 
